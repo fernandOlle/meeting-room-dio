@@ -1,7 +1,4 @@
-# meeting-room-dio
-
-# API Sala de Reuniões
-
+# meeting-room-dio / API Sala de Reuniões
 ## Stack utilizada:
 
  * Spring Web
@@ -13,7 +10,6 @@
  * Maven
  
 # Endpoints 
-
 ## Criar sala de reuniao
  - /api/v1/rooms - ( POST )
 
